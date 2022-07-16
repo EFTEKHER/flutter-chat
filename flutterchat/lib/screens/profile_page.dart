@@ -253,10 +253,10 @@ class _ProfilePageState extends State<ProfilePage> {
                                   dialCodeDigits = country.dialCode!;
                                 });
                               },
-                              initialSelection: 'IN',
+                              initialSelection: 'BD',
                               showCountryOnly: false,
                               showOnlyCountryWhenClosed: false,
-                              favorite: const ["+1", "US", "+91", "IN"],
+                              favorite: const ["+1", "US", "+88", "BD"],
                             ),
                           ),
                           vertical15,
