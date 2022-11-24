@@ -213,7 +213,7 @@ class _ChatPageState extends State<ChatPage> {
                       "";
               _callPhoneNumber(callPhoneNumber);
             },
-            icon: const Icon(Icons.phone),
+            icon: const Icon(Icons.message_rounded),
           ),
         ],
       ),
